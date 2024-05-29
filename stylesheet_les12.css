@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #F8F7FF;
+}
+header {
+    background-color:#99D17B;
+    width: 100%;
+    height: 200px;
+}
+main {
+    width: 100%;
+}
+footer {
+    background-color:#FFD8BE;
+    width: 100%;
+    height: 200px;
+}
+h1 {
+    color: #2E1F27;
+    padding-top: 50px;
+    text-align: center;
+}
+table {
+    color: #2E1F27;
+    width: 25%;
+    height: 100%;
+    text-align: left;
+    margin: 0 auto;
+}
+img {
+    width: 100px;
+    height: auto;
+}
+#cel01{
+    padding: 10px;
+    background-color: #FFFFCC;
+}
+#cel02{
+    padding: 10px;
+    background-color: #FFFF99;
+}
+#cel03{
+    padding: 10px;
+    background-color: #FFFF66;
+}
+#cel04{
+    padding: 10px;
+    background-color: #FFFF33;
+}
+#cel05{
+    padding: 10px;
+    background-color: #FFFF00;
+}
+#cel06{
+    padding: 10px;
+    background-color: #FFCCFF;
+}
+#cel07{
+    padding: 10px;
+    background-color: #FFCCCC;
+}
+#cel08{
+    padding: 10px;
+    background-color: #FFCC99;
+}
+#cel09{
+    padding: 10px;
+    background-color: #FFCC66;
+}
+#cel10{
+    padding: 10px;
+    background-color: #FFCC33;
+}
+#cel11{
+    padding: 10px;
+    background-color: #FFCC00;
+}
+#cel12{
+    padding: 10px;
+    background-color: #FF99FF;
+}
+#cel13{
+    padding: 10px;
+    background-color: #FF99CC;
+}
+#cel14{
+    padding: 10px;
+    background-color: #FF9999;
+}
+#cel15{
+    padding: 10px;
+    background-color: #FF9966;
+}#cel16{
+    padding: 10px;
+    background-color: #FF9933;
+}
+#Kleuropbouw{
+    padding: 10px;
+    background-color: #CCFF66;
+}#Kanalen{
+    padding: 10px;
+    background-color: #CCFF33;
+}#Groen{
+    padding: 10px;
+    background-color: #CCFF00;
+}#Blauw{
+    padding: 10px;
+    background-color: #99FF99;
+}#Rood{
+    padding: 10px;
+    background-color: #99FF66;
+}#Tint{
+    padding: 10px;
+    background-color: #99FF33;
+}#Verzadiging{
+    padding: 10px;
+    background-color: #99FF00;
+}#Helderheid{
+    padding: 10px;
+    background-color: #CCFF99;
+}
